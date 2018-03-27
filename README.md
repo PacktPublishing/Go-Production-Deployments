@@ -25,13 +25,13 @@ The code bundle for this course is available at https://github.com/PacktPublishi
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-Familiarity with Go
+<LI>Familiarity with Go
 
 
 ### Technical Requirements
 This course has the following software requirements:<br/>
-A custom domain name
-A virtual private server running Ubuntu 16.04 LTS (preferably on the Linode cloud)
+<LI>A custom domain name
+<LI>A virtual private server running Ubuntu 16.04 LTS (preferably on the Linode cloud)
 
 
 ## Related Products
