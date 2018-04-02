@@ -12,15 +12,17 @@ The code bundle for this course is available at https://github.com/PacktPublishi
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Render server-side templates&nbsp; 
-<LI>Manage requests and responses 
-<LI>Create custom middleware 
-<LI>Build web forms with validation and security in mind 
-<LI>Create functionality to upload and process images and videos 
-<LI>Implement a custom datastore for a relational database, document database, and an in-memory database 
-<LI>Build functionality for user authentication and session management 
-<LI>Secure routes using authentication middleware 
-<LI>Implement an asynchronous task queue </LI></UL></DIV>
+<LI>Deploy a full-stack Go application to a cloud-based production environment
+<LI>Provision a cloud-based virtual server instance
+<LI>Install MySQL and Nginx on the virtual server instance
+<LI>Obtain and install a free SSL certificate from Let’s Encrypt
+<LI>Cross compile a Go application
+<LI>Prepare and deploy a production deployment bundle
+<LI>Deploy the Go application to a standalone server
+<LI>Run the Go application in the cloud as a system service
+<LI>Prepare and deploy a production deployment bundle
+<LI>Deploy the Go application as a multi-container Docker application
+<LI>Run the Dockerized Go application in the cloud as a system service </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
